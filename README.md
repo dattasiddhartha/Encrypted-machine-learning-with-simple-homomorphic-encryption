@@ -1,6 +1,6 @@
 ### Implementation of orthogonal/inverted matrix-based homomorphic encrpytion for somewhat-encrypyted machine learning
 
--for experimental purposes only
+_For experimental purposes only_
 
 Taking the UCI credit default dataset, we built a benchmark classification model (~75%).
 
