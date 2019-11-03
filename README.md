@@ -6,4 +6,4 @@ Taking the UCI credit default dataset, we built a benchmark classification model
 
 Then encrypted the dataset using a set of matrix transformations based on the homomorphic encryption schemata [here](https://www.cs.cmu.edu/~rjhall/JOS_revised_May_31a.pdf).
 
-Running a standard backpropagation neural network model yielded similar accuracy (~74%) to the vanilla model, indicating no loss of insight/pattern during encryption.
+Running a backpropagation neural network model on encrypted data yielded similar accuracy (~74%) to the vanilla model on non-encrypted data, indicating no loss of insight/pattern during encryption.
